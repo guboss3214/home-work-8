@@ -26,3 +26,12 @@
 .right{
     float: right;
 }
+
+
+.custom-block-item{
+    height: 50px;
+    width: 200px;
+    background-color: grey;
+    border: 1px solid black;
+    margin: 15px 20px 12px 20px;
+}
