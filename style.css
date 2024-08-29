@@ -27,11 +27,20 @@
     float: right;
 }
 
-
 .custom-block-item{
     height: 50px;
     width: 200px;
     background-color: grey;
     border: 1px solid black;
     margin: 15px 20px 12px 20px;
+}
+
+.center-block{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.center-block .custom-block-item{
+    margin: 0;
+    margin-bottom: 5px;
 }
